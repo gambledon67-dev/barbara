@@ -3,20 +3,20 @@ window.APP_CONFIG = {
     pinCode: "",
   
     // Personal details
-    firstName: "EESNIMI",
-    lastName: "PEREKONNANIMI",
-    personalCode: "12345678912",
-    birthDate: "DD.MM.YYYY",
-    sex: "SUGU",
+    firstName: "BARBARA",
+    lastName: "PULLAT",
+    personalCode: "60808310084",
+    birthDate: "31.08.2008",
+    sex: "NAINE",
     photoPath: "userpic.png",
   
     // Documents
     passport: {
-      validUntil: "DD.MM.YYYY",
-      documentNumber: "KF0000000",
+      validUntil: "15.08.2029",
+      documentNumber: "KF0098563",
     },
     idCard: {
-      validUntil: "DD.MM.YYYY",
-      documentNumber: "AD0000000",
+      validUntil: "12.09.2030",
+      documentNumber: "AD0088454",
     },
   };
